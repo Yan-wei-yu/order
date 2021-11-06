@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">客製化飲料選單</string>
+    <string-array name="drink_name">
+        <item>滷汁($10)</item>
+        <item>西瓜汁($30)</item>
+        <item>蘋果汁($40)</item>
+    </string-array>
+    <string-array name="drink_name1">
+        <item>卡布奇諾($40)</item>
+        <item>拿鐵咖啡($40)</item>
+        <item>伯朗咖啡($10)</item>
+    </string-array>
+    <string-array name="temp">
+        <item>無糖</item>
+        <item>半糖</item>
+        <item>全糖</item>
+    </string-array>
+    <string-array name="temp1">
+        <item>去冰</item>
+        <item>少冰</item>
+        <item>正常冰</item>
+    </string-array>
+    <string-array name="temp2">
+        <item>熱的</item>
+    </string-array>
+    <string-array name="temp3">
+        <item>鹹的</item>
+    </string-array>
+    <string-array name="temp4">
+        <item>熱的</item>
+        <item>冰的</item>
+    </string-array>
+</resources>
